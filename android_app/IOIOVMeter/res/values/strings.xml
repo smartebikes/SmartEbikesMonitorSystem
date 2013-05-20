@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello, IOIO User!</string>
+    <string name="app_name">IOIO VMeter</string>
+    <string name="high">high</string>
+    <string name="low">low</string>
+    <string name="med">med</string>
+</resources>

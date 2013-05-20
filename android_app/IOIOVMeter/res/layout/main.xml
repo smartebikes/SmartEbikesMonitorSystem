@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/hello"
+    android:id="@+id/title"/>
+
+<TextView
+    android:id="@+id/analogheader"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Analog Ins:"
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+<TextView
+    android:id="@+id/a43"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="43:"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+    android:id="@+id/a44"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="44:"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+    android:id="@+id/diffVal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Diff:"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+    android:id="@+id/status"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Status:"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+<Button
+    android:id="@+id/button1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/low" />
+
+<TextView
+    android:id="@+id/cl1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="TextView" />
+
+<Button
+    android:id="@+id/button2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/med" />
+
+<TextView
+    android:id="@+id/cl2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="TextView" />
+
+<Button
+    android:id="@+id/high"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/high" />
+
+<TextView
+    android:id="@+id/cl3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="TextView" />
+
+</LinearLayout>
