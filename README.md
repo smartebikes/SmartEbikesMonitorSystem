@@ -1,17 +1,17 @@
 Smart E-bikes Monitor System (SEMS)
 ========================
 
-Source code and hardware design for the Smart-EBikes Monitoring System. 
+Source code and hardware design for the Smart-EBikes Monitoring System.
 
 This repository accompanies a journal article, 'The Smart E-Bike Monitoring System', which is currently under review.
 
-In short, this repository contains source code and hardware designs for a monitoring system which can autonomously collect location and sensor data describing electric bike usage. The system is in use by the 'Smart E-Bike' project at the University of Brighton, see http://smart-ebikes.com for more details.  We have open-sourced the monitor system so that it may be used by other e-bike and GPS monitoring projects.   
+In short, this repository contains source code and hardware designs for a monitoring system which can autonomously collect location and sensor data describing electric bike usage. The system is in use by the 'Smart E-Bikes' research project at the University of Brighton, see http://www.smart-ebikes.co.uk for more details. The project is funded by Research Council's UK Energy program through the EPSRC. The Smart E-bikes Monitor System (SEMS) is one of the project outcomes and this repository is part of documenting and communicating it.
 
-The system will work as described when used with the Raleigh Dover or Raleigh Velo-cite bikes, but will probably require customisation to work with other models.  SEMS is designed to be open ended to you can also add your own sensors.
+The system will work as described when used with the Raleigh Dover or Raleigh Velo-cite e-bikes, but will probably require customisation to work with other models. SEMS is designed to be modular, so additional sensors can be added. 
 
-If you are considering using SEMS, you are welcome to get in contact with us to discuss it.  We would especially be interested in exchanging data with other e-bike related projects.
+We have open-sourced the monitor system so that it may be used by other e-bike and GPS monitoring projects. 
 
-
+If you are considering using SEMS, you are welcome to contact us at http://www.smart-ebikes.com/?page_id=36 to discuss it. We would especially be interested in exchanging data with other e-bike related projects.
 
 
 
