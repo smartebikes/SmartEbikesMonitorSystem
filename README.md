@@ -47,3 +47,11 @@ The UVLO and LM2567 voltage convertor must be configured to match the voltage ra
 The Dover version works by using by monitoring voltages on the controller connections, while the Velocite board simply listens in on the LIN bus. Again, either of these may be useful, or you may have to create something entirely new; the IOIO should be flexible enough to track assistance in most situations.
 
 
+
+
+Disclaimer
+========================
+
+Installation of SEMS on your e-bike will almost certainly void the warranty, and will require modifications which are potentially dangerous if carried out incorrectly.  Please only attempt to build this system if you have the required expertise.  We accept no liability for any loss or damage that may occur from your use of the information in this repository.
+
+
